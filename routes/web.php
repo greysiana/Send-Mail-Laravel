@@ -17,7 +17,7 @@ Route::get('/', function () {
     // return view('welcome');
 
     $data = [
-        'title' => 'Hi student I hope you like the course',
+        'title' => 'Hi shope you like the course',
         'content' => 'This laravel course was created with a lot of love and dedication for you'
     ];
 
